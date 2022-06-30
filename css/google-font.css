@@ -1,0 +1,45 @@
+/*
+========================================
+*********** Google font include ********
+========================================
+*/
+
+/*Roboto*/
+@font-face{
+    font-family: Roboto-Light;
+    src: url('../google-fonts/Roboto-Light.ttf');
+}
+@font-face{
+    font-family: Roboto-Regular;
+    src: url('../google-fonts/Roboto-Regular.ttf');
+}
+@font-face{
+    font-family: Roboto-Medium;
+    src: url('../google-fonts/Roboto-Medium.ttf');
+}
+@font-face{
+    font-family: Roboto-Bold;
+    src: url('../google-fonts/Roboto-Bold.ttf');
+}
+
+/*Rubik*/
+@font-face{
+    font-family: Roboto-Light;
+    src: url('../google-fonts/Rubik-Light.ttf');
+}
+@font-face{
+    font-family: Roboto-Regular;
+    src: url('../google-fonts/Rubik-Regular.ttf');
+}
+@font-face{
+    font-family: Roboto-Medium;
+    src: url('../google-fonts/Rubik-Medium.ttf');
+}
+@font-face{
+    font-family: Roboto-SemiBold;
+    src: url('../google-fonts/Rubik-SemiBold.ttf');
+}
+@font-face{
+    font-family: Roboto-Bold;
+    src: url('../google-fonts/Rubik-Bold.ttf');
+}
